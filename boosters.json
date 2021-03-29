@@ -26,5 +26,9 @@
     {
         "name": "Mental",
         "uuid": "c81b2dda-a2bb-416a-a58e-df4dd1aa908f"
+    },
+    {
+        "name": "corem (BombDefused)",
+        "uuid": "1764d8fe-3386-4590-91d3-428626c30fbb"
     }
 ]
