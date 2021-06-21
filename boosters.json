@@ -34,5 +34,9 @@
     {
         "name": "EW4R",
         "uuid": "1af00005988d4c09b43d3d0b0d87cc16"
+    },
+    {
+        "name": "QuickDetour",
+        "uuid": "febadd80f8994d37b61e6e93a26b9a98"
     }
 ]
